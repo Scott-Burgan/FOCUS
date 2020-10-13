@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/opt/scitools/environments/default/current/bin/python3"
+}
+
+{
+     "python.pythonPath": "/opt/scitools/environments/default_legacy/current/bin/python2.7"
+}
+
+
