@@ -1,0 +1,45 @@
+Downscaled model is convection permitting . . .
+Correcting for stash difference between downscaled and driving model . . . 
+large scale rainfall (m01s04i203) + large scale snowfall (m01s04i204) = total precipitation (m01s05i216)
+precipitation_flux / (kg m-2 s-1)   (time: 30; latitude: 889; longitude: 1222)
+     Dimension coordinates:
+          time                           x             -               -
+          latitude                       -             x               -
+          longitude                      -             -               x
+     Auxiliary coordinates:
+          day_of_month                   x             -               -
+          forecast_period                x             -               -
+     Scalar coordinates:
+          forecast_reference_time: 1997-07-01 00:00:00
+          month: Mar
+          year: 1999
+     Attributes:
+          STASH: m01s05i216
+          source: Data from Met Office Unified Model
+          um_version: 10.3
+     Cell methods:
+          mean: time (1 hour)
+          mean: day_of_month
+Downscaled model is convection permitting . . .
+Correcting for stash difference between downscaled and driving model . . . 
+large scale rainfall (m01s04i203) + large scale snowfall (m01s04i204) = total precipitation (m01s05i216)
+precipitation_flux / (kg m-2 s-1)   (time: 30; latitude: 889; longitude: 1222)
+     Dimension coordinates:
+          time                           x             -               -
+          latitude                       -             x               -
+          longitude                      -             -               x
+     Auxiliary coordinates:
+          day_of_month                   x             -               -
+          forecast_period                x             -               -
+     Scalar coordinates:
+          forecast_reference_time: 1997-07-01 00:00:00
+          month: Apr
+          year: 1999
+     Attributes:
+          STASH: m01s05i216
+          source: Data from Met Office Unified Model
+          um_version: 10.3
+     Cell methods:
+          mean: time (1 hour)
+          mean: day_of_month
+slurmstepd: error: *** JOB 9089045 ON expspicesrv026 CANCELLED AT 2020-10-07T11:43:44 ***

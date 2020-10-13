@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/net/home/h05/sburgan/Documents/HORIZON2020_FOCUS/Scripts/process_cp4_Regional.py", line 105, in <module>
+    cp4_data = '/data/users/sburgan/CP4A/precip/u-'+stash+'/'+stash+'a.pa'+str(yr)+str(mn)+'*.pp'
+NameError: name 'stash' is not defined

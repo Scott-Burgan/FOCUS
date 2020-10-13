@@ -1,0 +1,10 @@
+#!/bin/bash -l
+#SBATCH --mem=100G
+#SBATCH --ntasks=1
+#SBATCH --time=6:00:00
+#SBATCH --export=NONE
+#SBATCH --mail-user=scott.burgan@metoffice.gov.uk 
+
+module load scitools
+
+python -u /net/home/h05/sburgan/Documents/HORIZON2020_FOCUS/Scripts/process_cp4_Regional.py ${1}
